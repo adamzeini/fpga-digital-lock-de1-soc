@@ -6,8 +6,6 @@ This project is a programmable digital lock system implemented on the **Altera D
 
 The system allows a user to enter a password using a keypad. The entered password is checked using hardware logic, and the system provides feedback through display output, buzzer indication, and servo motor control to simulate the lock/unlock mechanism.
 
-This project was developed fully in hardware using SystemVerilog modules. No embedded C, NIOS processor, or JTAG-UART interface was used.
-
 ## Features
 
 * Keypad-based password entry
